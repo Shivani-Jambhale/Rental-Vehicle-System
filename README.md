@@ -7,6 +7,11 @@ A Java-based console application built in Eclipse to automate the vehicle rental
 * **Streamlined Workflow:** Automates the rental process and handles transaction records.
 * **Java Logic:** Developed as a robust backend tool within the Eclipse IDE.
 
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- Eclipse IDE
+
 ## How to Run
 1. Open the project in **Eclipse**.
 2. Run the main Java file to start the console application.
